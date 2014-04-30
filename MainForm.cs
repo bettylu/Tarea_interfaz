@@ -1,4 +1,11 @@
-﻿
+﻿/*
+ * Creado por SharpDevelop.
+ * Usuario: betty de luna
+ * Fecha: 29/04/2014
+ * Hora: 12:47 p.m.
+ * 
+ * Para cambiar esta plantilla use Herramientas | Opciones | Codificación | Editar Encabezados Estándar
+ */
 using System;
 using System.Collections.Generic;
 using System.Drawing;
